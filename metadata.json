@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Generator",
+  "description": "An AI-powered tool to generate complete, single-file websites from a text prompt. Users can describe the website they want, and the app generates the HTML, CSS, and JavaScript code, offering both a live preview and a code view with options to copy or download.",
+  "requestFramePermissions": []
+}
